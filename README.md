@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://portfolio-devanshsahni.vercel.app/">devanshsahni</a></h2>
 
 <br/>
@@ -51,3 +52,7 @@
 ## Support
 <p>Show your support by leaving a star ⭐ on this repo, if you like the website.</p>
 <p>Fell free to point out any bugs🪲 or improvements in the issues tab.</p>
+=======
+# Naveen-prortfolio
+its my portfolio
+>>>>>>> 38c676785fe5e809308a63fdf5f49c8a12710da8
