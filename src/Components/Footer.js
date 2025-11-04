@@ -1,7 +1,6 @@
 import React from 'react';
 import { FaGithub, FaLinkedin, FaWhatsapp, FaInstagram } from "react-icons/fa";
 import { GrMail } from "react-icons/gr";
-import { SiLeetcode } from "react-icons/si"
 
 const Footer = () => {
   return (
@@ -20,14 +19,14 @@ const Footer = () => {
           <GrMail />
         </a>
         <a
-          href="https://wa.me/+918072859334"  // 👈 replace with your WhatsApp number (with country code)
+          href="https://wa.me/+918072859334"  
           target="_blank"
           rel="noopener noreferrer"
         >
           <FaWhatsapp />
         </a>
         <a
-          href="https://www.instagram.com/itz.naveen__?igsh=aHR4azByd3Q4djQw"  // 👈 replace with your Instagram username
+          href="https://www.instagram.com/itz.naveen__?igsh=aHR4azByd3Q4djQw"  
           target="_blank"
           rel="noopener noreferrer"
         >
