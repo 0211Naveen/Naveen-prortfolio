@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+<<<<<<< HEAD >>>>>>>>
 <h2 align="center">Personal Portfolio <br/> <a target="_blank" href="https://naveen-prortfolio.vercel.app/">Naveen</a></h2>
 
 <br/>
