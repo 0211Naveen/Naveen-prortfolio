@@ -1,8 +1,8 @@
 import React from 'react';
 import ProjectBox from './ProjectBox';
-import NewsletterImage from '../images/NewsletterImage.png';
-import RogfreeImage from '../images/RogfreeImage.png';
-import TindogImage from '../images/TindogImage.png';
+// import NewsletterImage from '../images/NewsletterImage.png';
+// import RogfreeImage from '../images/RogfreeImage.png';
+// import TindogImage from '../images/TindogImage.png';
 import Antique from '../images/ecom.png';
 import MessageappImage from '../images/MessageappImage.png';
 
