@@ -55,7 +55,7 @@ import { CgFileDocument } from "react-icons/cg";
 
 const ProjectBox = ({ projectPhoto, projectName }) => {
   const desc = {
-    AntiqueDesc: "Built a simple Antique Product Selling Website with an Admin Panel for managing products and orders.",
+    AntiqueDesc: "Developed a full-stack Antique Product Selling Website with an integrated Admin Panel for efficient product and order management. The project is built using the MERN stack — MongoDB, Express, React, and Node.js — and deployed on Vercel for seamless hosting and scalability.Integrated Cloudinary for secure image storage and management, and used Git & GitHub for version control and collaboration.",
     AntiqueGithub: "https://github.com/0211Naveen/E-com.git",
     AntiqueWebsite: "https://e-com-olive-rho.vercel.app/",
 
